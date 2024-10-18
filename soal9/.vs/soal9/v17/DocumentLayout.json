@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SanazDarbandi\\source\\repos\\soal9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FAF1F5-7975-443B-8B39-C223E38877A6}|soal9\\soal9.csproj|c:\\users\\sanazdarbandi\\source\\repos\\soal9\\soal9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FAF1F5-7975-443B-8B39-C223E38877A6}|soal9\\soal9.csproj|solutionrelative:soal9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SanazDarbandi\\source\\repos\\soal9\\soal9\\Program.cs",
+              "RelativeDocumentMoniker": "soal9\\Program.cs",
+              "ToolTip": "C:\\Users\\SanazDarbandi\\source\\repos\\soal9\\soal9\\Program.cs",
+              "RelativeToolTip": "soal9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:22:55.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\SanazDarbandi\source\repos\11\11\bin\Debug\net8.0\11.exe
+C:\Users\SanazDarbandi\source\repos\11\11\bin\Debug\net8.0\11.deps.json
+C:\Users\SanazDarbandi\source\repos\11\11\bin\Debug\net8.0\11.runtimeconfig.json
+C:\Users\SanazDarbandi\source\repos\11\11\bin\Debug\net8.0\11.dll
+C:\Users\SanazDarbandi\source\repos\11\11\bin\Debug\net8.0\11.pdb
+C:\Users\SanazDarbandi\source\repos\11\11\obj\Debug\net8.0\11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SanazDarbandi\source\repos\11\11\obj\Debug\net8.0\11.AssemblyInfoInputs.cache
+C:\Users\SanazDarbandi\source\repos\11\11\obj\Debug\net8.0\11.AssemblyInfo.cs
+C:\Users\SanazDarbandi\source\repos\11\11\obj\Debug\net8.0\11.csproj.CoreCompileInputs.cache
+C:\Users\SanazDarbandi\source\repos\11\11\obj\Debug\net8.0\11.dll
+C:\Users\SanazDarbandi\source\repos\11\11\obj\Debug\net8.0\refint\11.dll
+C:\Users\SanazDarbandi\source\repos\11\11\obj\Debug\net8.0\11.pdb
+C:\Users\SanazDarbandi\source\repos\11\11\obj\Debug\net8.0\11.genruntimeconfig.cache
+C:\Users\SanazDarbandi\source\repos\11\11\obj\Debug\net8.0\ref\11.dll

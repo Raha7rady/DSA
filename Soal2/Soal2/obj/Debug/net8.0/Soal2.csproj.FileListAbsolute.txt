@@ -1,0 +1,14 @@
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\bin\Debug\net8.0\Soal2.exe
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\bin\Debug\net8.0\Soal2.deps.json
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\bin\Debug\net8.0\Soal2.runtimeconfig.json
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\bin\Debug\net8.0\Soal2.dll
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\bin\Debug\net8.0\Soal2.pdb
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\obj\Debug\net8.0\Soal2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\obj\Debug\net8.0\Soal2.AssemblyInfoInputs.cache
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\obj\Debug\net8.0\Soal2.AssemblyInfo.cs
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\obj\Debug\net8.0\Soal2.csproj.CoreCompileInputs.cache
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\obj\Debug\net8.0\Soal2.dll
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\obj\Debug\net8.0\refint\Soal2.dll
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\obj\Debug\net8.0\Soal2.pdb
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\obj\Debug\net8.0\Soal2.genruntimeconfig.cache
+H:\Projects\WebApplication1\DSA\Soal2\Soal2\obj\Debug\net8.0\ref\Soal2.dll

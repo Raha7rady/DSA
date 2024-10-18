@@ -1,0 +1,14 @@
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\bin\Debug\net8.0\soal5.exe
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\bin\Debug\net8.0\soal5.deps.json
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\bin\Debug\net8.0\soal5.runtimeconfig.json
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\bin\Debug\net8.0\soal5.dll
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\bin\Debug\net8.0\soal5.pdb
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\obj\Debug\net8.0\soal5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\obj\Debug\net8.0\soal5.AssemblyInfoInputs.cache
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\obj\Debug\net8.0\soal5.AssemblyInfo.cs
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\obj\Debug\net8.0\soal5.csproj.CoreCompileInputs.cache
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\obj\Debug\net8.0\soal5.dll
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\obj\Debug\net8.0\refint\soal5.dll
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\obj\Debug\net8.0\soal5.pdb
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\obj\Debug\net8.0\soal5.genruntimeconfig.cache
+C:\Users\SanazDarbandi\source\repos\soal5\soal5\obj\Debug\net8.0\ref\soal5.dll
